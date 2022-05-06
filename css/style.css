@@ -22,4 +22,47 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+    
+}
+.cat1{
+background-color: orange;
+border-radius: 10px;
+padding: 10px;
+}
+.cat2{
+background-color: orchid;
+border-radius: 10px;
+padding: 10px;
+}
+.cat3{
+background-color: blueviolet;
+border-radius: 10px;
+padding-top: 5px;
+}
+.categories img{
+    width: 100px;
+}
+.categories h1{
+    color: white;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+.card img{
+    width: auto;
+}
+#Contact{
+height: 300px;
+}
+
+.footer1{
+    text-align:center;
 }
